@@ -1,6 +1,21 @@
+html {
+	background-color: #e8f4f8;
+}
 h1 {
-	color: red;
-	}
+	border: 2px Red dashed;
+	float;
+	color: black;
+	text-align: center;
+	padding: 5px;
+	background-color: white;
+}
+#header {
+	position: relative;
+	top: 5px;
+}
 ul {
-	color: green;
-	}
+	color: Red;
+}
+p {
+	font-family: sans-serif;
+}
