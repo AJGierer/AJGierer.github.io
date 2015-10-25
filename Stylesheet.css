@@ -11,12 +11,12 @@ html {
 	padding-left: 5px;
 	padding-right: 5px;
 }
-.sidegap {
+.sidegap { /*for between the links in the Header*/
 	border: none;
 	padding-left: 10px;
 	padding-right: 10px;
 }
-.topgap {
+.topgap { /*for between the WBox's to spread things out*/
 	padding-top: 20px;
 	}
 #WhoIAm {
@@ -25,11 +25,11 @@ html {
 }
 #WhatIveDone{
 }
-p {
+p { /*to keep the text inside the WBox's from the edges*/
 	padding-left: 10px;
 	padding-right: 10px;
 }
-.WBox {
+.WBox { /*for each box holding all of the content*/
 	border: 2px black solid;
 	border-radius: 5px;
 	background-color: #e6f3f7;
@@ -40,4 +40,5 @@ h2 {
 a href {
 	}
 #footer {
+	text-align: right;
 	}
