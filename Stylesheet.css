@@ -40,4 +40,5 @@ h2 {
 a href {
 	}
 #footer { 
+	display: inline-block;
 	}
